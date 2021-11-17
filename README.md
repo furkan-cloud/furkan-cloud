@@ -7,9 +7,11 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@firstinfirstout2020)
 
 - Poemy App
+- (Context, Notification, Dark mode, Reminder, In-app purchase, Revenuecat)
 https://play.google.com/store/apps/details?id=com.faces.poemy&hl=en&gl=US
 
 - Medium MERN Clone
+- (Express, Mongoose, MongoDB, Context)
 https://medium-mern-clone.herokuapp.com/
 https://github.com/furkan-cloud/medium-mern-project
 
@@ -28,7 +30,9 @@ https://furkan-cloud.github.io/004-Website-page-design/
 - Parallax Website
 https://furkan-cloud.github.io/003-Parallax-Website/
 
-- 🔭 I’m currently working on frontend, backend and mobile app development (JavaScript | React | Nextjs | React Native | TypeScript | HTML | CSS | DJANGO | MongoDB | Node.js)
+- 🔭 I’m currently working on frontend, backend and mobile app development (JavaScript | React | Nextjs | React Native | TypeScript | HTML | CSS | DJANGO | MongoDB | Nodejs)
+- 🌱 I’m currently learning Nodejs in Patika.dev Getir Nodejs Bootcamp.
+
 <!--
 **furkan-cloud/furkan-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
