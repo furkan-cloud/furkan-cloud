@@ -6,12 +6,10 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-t%C3%BCrko%C4%9Flu-963686195/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@firstinfirstout2020)
 
-- Poemy App
-- (Context, Notification, Dark mode, Reminder, In-app purchase, Revenuecat)
+- Poemy App (Context, Notification, Dark mode, Reminder, In-app purchase, Revenuecat)
 https://play.google.com/store/apps/details?id=com.faces.poemy&hl=en&gl=US
 
-- Medium MERN Clone
-- (Express, Mongoose, MongoDB, Context)
+- Medium MERN Clone (Express, Mongoose, MongoDB, Context)
 https://medium-mern-clone.herokuapp.com/
 https://github.com/furkan-cloud/medium-mern-project
 
